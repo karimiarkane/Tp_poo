@@ -3,6 +3,6 @@ module com.example.essai {
     requires javafx.fxml;
 
 
-    opens com.example.essai to javafx.fxml;
-    exports com.example.essai;
+    opens tp_poo to javafx.fxml;
+    exports tp_poo;
 }
